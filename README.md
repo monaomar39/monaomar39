@@ -40,15 +40,7 @@ Networking
 Cybersecurity
  └── Security Fundamentals
 
-⸻
 
-🚀 Projects & Challenges
-
-🌌 NASA Space Apps Challenge
-
-Currently working on a project for the NASA Space Apps Challenge.
-
-🔗 More details will be added soon.
 
 ⸻
 
